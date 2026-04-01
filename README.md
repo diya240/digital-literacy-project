@@ -3,4 +3,4 @@ DigitalBuddy Digital Literacy Project
 DigitalBuddy is a concept-based digital literacy project designed to help students develop essential online skills required for academic and professional growth. The idea focuses on creating a structured guide that introduces students to professional platforms such as GitHub and LinkedIn, encourages coding practice, and promotes effective digital communication through proper email etiquette. The project also highlights cybercrime awareness and safe internet practices to ensure responsible digital behavior. Through this portfolio, students learn how to build a professional online presence, collaborate using digital tools, and protect themselves from online threats. DigitalBuddy integrates these elements into a single framework, making it easier for beginners to understand and apply digital literacy concepts in real-world academic and career scenarios.
 
 
-quiz link https://forms.gle/YTXyE9XWDWwHbJcS8🔗 
+quiz link https: https://docs.google.com/forms/d/e/1FAIpQLSemzWK6Wqn7uulRlkC4Sq7R-MjE4qD4g3lsO2eEzyDsUgDAuA/viewform?usp=dialog 
